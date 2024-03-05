@@ -60,12 +60,12 @@ const Navbar = () => {
         </Link>
 
         <Link
-          href="/Articles"
+          href="/Sertificate"
           className={`transition-colors animateNav ${ClassNav} ${
-            pathname === "/Articles" ? ClassSelected : ""
+            pathname === "/Sertificate" ? ClassSelected : ""
           }`}
         >
-          Articles
+          Sertificate
         </Link>
       </>
     );
