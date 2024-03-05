@@ -82,38 +82,6 @@ const Profile = () => {
         </div>
       </div>
     </div>
-
-    // disini
-
-    // <div>
-    //   <div className="py-20 px-10 space-y-5 md:grid min-h-screen lg:grid-cols-2 ">
-    //     <div className="pt-10  flex justify-center md:px-20">
-    //       <Image
-    //         alt="ranto"
-    //         src={Fotoku}
-    //         className="md:h-screen object-cover object-right-top rounded-t-full  shadow-sm md:px-20"
-    //       />
-    //     </div>
-    //     <div className="lg:flex items-center ">
-    //       <div className="space-y-4 ">
-    //         <p className="font-bold text-sm er md:text-5xl">Hi my name is</p>
-    //         <span className="font-bold text-6xl">Ranto</span>
-    //         <p className="md:text-lg">
-    //           I'm a software engineer with expertise in creating top-notch
-    //           digital experiences. My current focus is on developing products
-    //           that are accessible and centered around user needs, as part of the
-    //           team at
-    //         </p>
-    //         <div className="flex w-full space-x-5 items-center">
-    //           <p className="px-5 py-3 rounded-lg bg-black text-white">
-    //             Resume Down
-    //           </p>
-    //           <p>Contact</p>
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </div>
   );
 };
 
