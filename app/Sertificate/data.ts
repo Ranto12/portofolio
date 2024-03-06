@@ -1,4 +1,4 @@
-import { Aws, BackendJs, C, DataBaseDesign, DevOps, Github, Jaringan, PhpKominfo, ReactAltera, javaDicoding, javaOracle } from "./asset";
+import { Aws, BackendJs, C, DataBaseDesign, DevOps, Github, HtmlDasar, Jaringan, MahasiswaTerbaik, PesertaTerbaik, PhpKominfo, ReactAltera, ReactNative, StylingReact, VSGA, javaDicoding, javaOracle, pkl } from "./asset";
 
 const DataSertifikat = [
         {
@@ -54,6 +54,41 @@ const DataSertifikat = [
         {
                 name: "",
                 image: PhpKominfo ,
+                description: ""
+        },
+        {
+                name: "",
+                image: PesertaTerbaik ,
+                description: ""
+        },
+        {
+                name: "",
+                image: StylingReact ,
+                description: ""
+        },
+        {
+                name: "",
+                image: HtmlDasar ,
+                description: ""
+        },
+        {
+                name: "",
+                image: VSGA ,
+                description: ""
+        },
+        {
+                name: "",
+                image: pkl ,
+                description: ""
+        },
+        {
+                name: "",
+                image: ReactNative ,
+                description: ""
+        },
+        {
+                name: "",
+                image: MahasiswaTerbaik ,
                 description: ""
         },
 ]
