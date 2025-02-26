@@ -34,11 +34,11 @@ const Project = () => {
         {Data.map((item, i) => {
           return (
             <Card
-              key={item.id}
+              key={i}
               status={item.status}
               hastag={item.hastag}
               icons={item.icons}
-              id={item.id}
+              id={i}
               link={item.link}
               name={item.name}
             />
